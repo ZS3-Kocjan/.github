@@ -1,6 +1,6 @@
 # 🏫 Witajcie 👋
 
-Ten profil jest przeznaczony dla **_ambitniejszych_** _uczniów naszej szkoły_, którzy lubią kodować :))
+Ten profil jest przeznaczony dla **_ambitnych_** _uczniów naszej szkoły_, którzy lubią kodować :))
 
 ---
 
@@ -21,4 +21,4 @@ Bo ogień powstaje z iskry hah `(sam to wymyśliłem nie ai xD)`! :D
 
 ---
 
-_Profil prowadzony przez uczniów :DDD_
+_Profil prowadzony przez uczniów_
