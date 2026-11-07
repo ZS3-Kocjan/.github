@@ -17,7 +17,7 @@ To będzie miejsce dla tych, którzy chcą eksperymentować i pouczyć sie progr
 Wspólnie będziemy realizować projekty, dzielić się wiedzą czy doświadczeniem bo szkoła tego nas nie nauczy.
 Niezależnie od poziomu zaawansowania, pomysłów czy wykorzystywanych technologii - też możesz dołączyć do nas!
 
-Bo ogień powstaje z iskry hah `(sam to wymyśliłem nie ai xD)`! :D
+Bo ogień powstaje z iskry hah `(sam to wymyśliłem, nie ai xD)`! :D
 
 ---
 
