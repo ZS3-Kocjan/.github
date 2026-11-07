@@ -1,4 +1,6 @@
-![ZS3 Kocjan](https://shieldcn.dev/header/graph.svg?title=ZS3+Kocjan&subtitle=Zesp%C3%B3%C5%82+Szk%C3%B3%C5%82+Nr+3+im.+Antoniego+Kocjana+w+Olkuszu&logo=lu%3ASchool&logoColor=fff&mode=dark&theme=blue&font=jetbrains-mono)
+<p align="center">
+ <img alt="ZS3 Kocjan" src="https://shieldcn.dev/header/graph.svg?title=ZS3+Kocjan&subtitle=Zesp%C3%B3%C5%82+Szk%C3%B3%C5%82+Nr+3+im.+Antoniego+Kocjana+w+Olkuszu&logo=lu%3ASchool&logoColor=ffffff&size=wide&mode=dark&theme=blue&font=jetbrains-mono">
+</p>
 
 Ten profil jest przeznaczony dla **_ambitnych_** _uczniów naszej szkoły_, którzy lubią kodować :))
 
