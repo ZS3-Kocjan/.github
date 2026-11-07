@@ -23,7 +23,7 @@ Bo ogień powstaje z iskry hah `(sam to wymyśliłem, nie ai xD)`! :D
 
 ---
 
-<p>
+<p align="center">
  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Python-abcde3.svg?logo=python&amp;fontSize=13&amp;padX=10&amp;gap=6&amp;labelGap=4&amp;mode=dark"><img alt="badge" src="https://shieldcn.dev/badge/Python-abcde3.svg?logo=python&amp;fontSize=13&amp;padX=10&amp;gap=6&amp;labelGap=4&amp;mode=light"></picture>
  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/JavaScript.svg?theme=amber&amp;logo=ri%3ABsJavascript&amp;fontSize=13&amp;padX=10&amp;gap=6&amp;labelGap=4&amp;mode=dark"><img alt="badge" src="https://shieldcn.dev/badge/JavaScript.svg?theme=amber&amp;logo=ri%3ABsJavascript&amp;fontSize=13&amp;padX=10&amp;gap=6&amp;labelGap=4&amp;mode=light"></picture>
  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/TensorFlow.svg?variant=outline&amp;theme=amber&amp;logo=tensorflow&amp;fontSize=13&amp;padX=10&amp;gap=6&amp;labelGap=4&amp;mode=dark"><img alt="badge" src="https://shieldcn.dev/badge/TensorFlow.svg?variant=outline&amp;theme=amber&amp;logo=tensorflow&amp;fontSize=13&amp;padX=10&amp;gap=6&amp;labelGap=4&amp;mode=light"></picture>
